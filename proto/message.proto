@@ -1,0 +1,7 @@
+syntax = "proto2";
+
+package aikido.planner.proto;
+
+message RRT {
+    optional double range = 1; 
+}
